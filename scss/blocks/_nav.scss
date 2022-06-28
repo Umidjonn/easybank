@@ -1,0 +1,22 @@
+.nav__list{
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 15px;
+
+}
+
+.nav__item{
+  margin-right: 30px;
+
+}
+
+.nav__link{
+  text-decoration: none;
+  color: gray;
+}
+
+.nav__item--last{
+  margin: 0;
+}
