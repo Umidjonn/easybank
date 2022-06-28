@@ -1,0 +1,75 @@
+.section__bank-choose{
+  background-color: #f4f5f7;
+}
+
+.bank-choose__h2{
+  // margin-top: 60px;
+  max-width: 423px;
+  max-height: 64px;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 40px;
+  line-height: 64px;
+  color: #2D314D;
+}
+
+.bank-choose__p{
+  max-width: 635px;
+  max-height: 56px;
+  margin-top: 60px;
+  font-size: 18px;
+  line-height: 28px;
+  color: #9597A5;
+}
+
+.bank-choose__list{
+  margin-top: 72px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  list-style: none;
+}
+
+.bank-choose__item{
+
+  width: 255px;
+  height: 278px;
+}
+
+.bank-choose__link{
+  text-decoration: none;
+}
+
+.bank-choose__img{
+  width: 72px;
+  height: 72px;
+  transition: 0.1s;
+}
+
+.bank-choose__img:hover{
+  transform: scale(1.2);
+}
+
+.bank-choose__h3{
+  font-style: normal;
+  font-weight: 100;
+  font-size: 24px;
+  line-height: 28px;
+  color: #2D314D;
+}
+
+.bank-choose__h3:hover{
+  color: #30C88F;
+}
+
+.bank-choose__pi{
+  margin-top: 0;
+  font-size: 16px;
+  line-height: 26px;
+  color: #9597A5;
+}
+
+
+.bank-choose__pi:hover{
+  color: #30C88F;
+}
